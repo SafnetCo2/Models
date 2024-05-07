@@ -1,8 +1,8 @@
-User and Note Management CLI
+# User and Note Management CLI
 
 Welcome to my User and Note Management CLI project! This CLI application allows users to manage users and notes through a command-line interface. It leverages SQLAlchemy for object-relational mapping (ORM) and SQLite as the database backend.
 
-Table of Contents
+# Table of Contents
 Demo
 Features
 Installation
