@@ -1,14 +1,14 @@
 # User and Note Management CLI
 
-![Project Image](print("\033[1;36;40m __  __             _   _       _     _             \033[0m")
-print("\033[1;36;40m|  \/  |           | | | |     | |   (_)            \033[0m")
-print("\033[1;36;40m| \  / | __ _ _ __ | |_| |__   | |    _ _ __   ___  \033[0m")
-print("\033[1;36;40m| |\/| |/ _` | '_ \| __| '_ \  | |   | | '_ \ / _ \ \033[0m")
-print("\033[1;36;40m| |  | | (_| | | | | |_| | | | | |___| | | | | (_) |\033[0m")
-print("\033[1;36;40m|_|  |_|\__,_|_| |_|\__|_| |_| |_____|_|_| |_|\___/ \033[0m")
-print("\n")
-print("\033[1;33;40m              User and Note Management CLI             \033[0m")
-)
+ __  __             _   _       _     _             
+|  \/  |           | | | |     | |   (_)            
+| \  / | __ _ _ __ | |_| |__   | |    _ _ __   ___  
+| |\/| |/ _` | '_ \| __| '_ \  | |   | | '_ \ / _ \ 
+| |  | | (_| | | | | |_| | | | | |___| | | | | (_) |
+|_|  |_|\__,_|_| |_|\__|_| |_| |_____|_|_| |_|\___/ 
+
+              User and Note Management CLI
+
 
 Welcome to my User and Note Management CLI project! This CLI application allows users to manage users and notes through a command-line interface. It leverages SQLAlchemy for object-relational mapping (ORM) and SQLite as the database backend.
 
